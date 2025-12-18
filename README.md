@@ -1,6 +1,9 @@
 # Manajemen-Mahasiswa
 # 🎓 DataMahasiswa - Sistem Manajemen Mahasiswa Sederhana
 
+<img width="1888" height="971" alt="image" src="https://github.com/user-attachments/assets/cd511fa9-a814-414a-a53b-eae93e0c1763" />
+
+
 Sistem manajemen data mahasiswa berbasis web yang dirancang untuk mendemonstrasikan implementasi Struktur Data dan Algoritma (Sorting & Searching) dalam lingkungan pengembangan Front-End.
 
 ## 🚀 Fitur Utama
